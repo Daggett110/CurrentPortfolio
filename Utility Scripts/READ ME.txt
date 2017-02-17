@@ -1,0 +1,3 @@
+Simple Utility Script. I add this to my Unity Projects if I feel they need it.
+Just a bunch of static functions I use to keep audio sources varied and simplify
+input as needed.
